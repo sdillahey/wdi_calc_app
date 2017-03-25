@@ -34,3 +34,11 @@ firstNum = null
 - if '.' is clicked -> append '.' if there isn't one already
 -  if operator is clicked -> save the op function to op
 -  if = is clicked, execute the sequence
+
+
+### Other Tools/Notes
+Ternary Operator: Excellent for replacing cases when there are many if/else statements  
+syntax: ```` ___ ? ___ : ___ ;````  
+Example: ````score > 100? doWinner() : keepPlaying();````
+  
+Digital Color Reader: selects and copies exact color
