@@ -41,4 +41,6 @@ Ternary Operator: Excellent for replacing cases when there are many if/else stat
 syntax: ```` ___ ? ___ : ___ ;````  
 Example: ````score > 100? doWinner() : keepPlaying();````
   
+Chrome's Debugger in Developer Tools
+
 Digital Color Reader: selects and copies exact color
